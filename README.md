@@ -44,7 +44,7 @@ If using IntelliJ, you must have the [Lombok Plugin](https://plugins.jetbrains.c
 1. Right-click `DemoApplication` in `src/main/java/com/example/demo` and click `Run DemoApplication`.
 1. The application will build and run on <http://localhost:8080>.
 
-## With Command Line
+### With Command Line
 
 ```bash
 # Navigate to demo directory
