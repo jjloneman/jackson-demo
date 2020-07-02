@@ -5,6 +5,10 @@
 >
 > This project implements the `@ManyToMany` example on <https://vladmihalcea.com/the-best-way-to-use-the-manytomany-annotation-with-jpa-and-hibernate/>.
 
+## Github Issue
+
+This reproduction is for the following issue: <https://github.com/FasterXML/jackson-databind/issues/2782>.
+
 ## Problem to Reproduce
 
 * When using a `@ManyToMany` or `@OneToMany` annotation on a `List`, when using Jackson to serialize the owning entity,
